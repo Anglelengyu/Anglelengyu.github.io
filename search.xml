@@ -23,6 +23,9 @@
 <p> chomd  +w  jmxremote.password</p>
 <h4 id="3-vim-jmxremote-password-将后面monitorRole-、controlRole注释放开"><a href="#3-vim-jmxremote-password-将后面monitorRole-、controlRole注释放开" class="headerlink" title="3.vim  jmxremote.password  将后面monitorRole 、controlRole注释放开"></a>3.vim  jmxremote.password  将后面monitorRole 、controlRole注释放开</h4><p>monitorRole 、controlRole是定义在jmxremote.access中的权限角色，前者只可读，后者可读可写</p>
 <h4 id="4-赋予文件权限：chmod-600-jmxremote-password-jmxremote-access"><a href="#4-赋予文件权限：chmod-600-jmxremote-password-jmxremote-access" class="headerlink" title="4.赋予文件权限：chmod  600  jmxremote.password  jmxremote.access"></a>4.赋予文件权限：chmod  600  jmxremote.password  jmxremote.access</h4><h4 id="5-启动然后继续前面一样的操作"><a href="#5-启动然后继续前面一样的操作" class="headerlink" title="5.启动然后继续前面一样的操作"></a>5.启动然后继续前面一样的操作</h4>]]></content>
+      <categories>
+        <category>分类</category>
+      </categories>
       <tags>
         <tag>java</tag>
         <tag>服务器</tag>
